@@ -53,7 +53,7 @@ Projetos voltados para tecnologia e programação.
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=nodejs,javascript,html,css,python,git,github,vscode,firebase,mongodb"/>
+<img src="https://skillicons.dev/icons?i=nodejs,javascript,html,css,python,git,vscode,firebase,lua"/>
 
 </p>
 
