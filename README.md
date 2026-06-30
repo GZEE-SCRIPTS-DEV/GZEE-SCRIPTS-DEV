@@ -43,9 +43,9 @@ Projetos voltados para tecnologia e programação.
 
 <p align="center">
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=GZEE-SCRIPTS-DEV&show_icons=true&theme=tokyonight"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=GZEE-SCRIPTS-DEV&show_icons=true&theme=vue-dark"/>
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GZEE-SCRIPTS-DEV&layout=compact&theme=tokyonight"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GZEE-SCRIPTS-DEV&layout=compact&theme=vue-dark"/>
 
 </p>
 
@@ -83,7 +83,7 @@ Projetos voltados para tecnologia e programação.
 <img src="https://img.shields.io/badge/Site-00BFFF?style=for-the-badge"/>
 </a>
 
-<a href="https://whatsapp.com/channel/0029Vb7SjkeIN9iuwkZ3Np3f">
+<a href="https://whatsapp.com/channel/0029VbCaBlb7T8bamg6B2i0e">
 <img src="https://img.shields.io/badge/Canal-25D366?style=for-the-badge&logo=whatsapp"/>
 </a>
 
