@@ -49,7 +49,7 @@ Projetos voltados para tecnologia e programação.
 
 ---
 
-# 🛠 Tecnologias
+# 🛠 Cursos
 
 <p align="center">
 
@@ -59,7 +59,7 @@ Projetos voltados para tecnologia e programação.
 
 ---
 
-# 🌎 Redes
+# 🌎 Redes Sociais 
 
 <p align="center">
 
@@ -79,7 +79,7 @@ Projetos voltados para tecnologia e programação.
 
 ---
 
-# 👀 Visitantes
+# 👀 Stalkers
 
 <p align="center">
 
