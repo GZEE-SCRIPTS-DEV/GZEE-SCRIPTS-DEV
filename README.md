@@ -93,5 +93,5 @@ Projetos voltados para tecnologia e programação.
 ⭐ Obrigado por visitar meu perfil!
 </h3>
 <h3 align="center">
-⭐ Deixe uma estrela nos projetos para apoiar!
+⭐ Deixe uma estrela nos projetos para apoiar! ⭐
 </h3>
