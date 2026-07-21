@@ -1,7 +1,7 @@
 <h1 align="center">👋 Olá, eu sou o GzeeScriptsDev</h1>
 
 <h3 align="center">
-💻 Desenvolvedor Back-end • Bots WhatsApp • APIs • Brasil 🇧🇷
+Bots WhatsApp • APIs • Brasil 🇧🇷
 </h3>
 
 <p align="center">
