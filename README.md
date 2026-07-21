@@ -17,7 +17,7 @@ Olá! Sou o **GzeeScriptsDev**, brasileiro apaixonado por tecnologia.
 🚀 Atualmente trabalho com:
 
 - Bots para WhatsApp
-- Desenvolvimento de APIs (SystemZero Baileys)
+- Desenvolvimento de APIs
 - Node.js
 - Automações
 - Projetos Open Source
