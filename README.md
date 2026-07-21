@@ -12,12 +12,12 @@
 
 # 👨‍💻 Sobre Mim
 
-Olá! Sou o **GzeeScriptsDev**, desenvolvedor brasileiro apaixonado por tecnologia.
+Olá! Sou o **GzeeScriptsDev**, brasileiro apaixonado por tecnologia.
 
 🚀 Atualmente trabalho com:
 
 - 🤖 Bots para WhatsApp
-- 🌐 Desenvolvimento de APIs
+- 🌐 Desenvolvimento de APIs (SystemZero Baileys)
 - ⚡ Node.js
 - 💻 Automações
 - 🔥 Projetos Open Source
@@ -53,7 +53,7 @@ Projetos voltados para tecnologia e programação.
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=nodejs,javascript,html,css,python,git,vscode,firebase,lua,cs,typescript,java"/>
+<img src="https://skillicons.dev/icons?i=nodejs, python"/>
 
 </p>
 
