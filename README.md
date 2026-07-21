@@ -34,9 +34,6 @@ Bot completo para WhatsApp.
 ### 🌐 Zyron API
 API gratuita para desenvolvedores.
 
-### 💻 NXR / KXR
-Projetos voltados para tecnologia e programação.
-
 ---
 
 # 🔥 Streak
