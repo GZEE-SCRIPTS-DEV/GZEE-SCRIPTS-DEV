@@ -10,7 +10,7 @@
 
 ---
 
-# 👨‍💻 Sobre Mim
+# Sobre Mim
 
 Olá! Sou o **GzeeScriptsDev**, brasileiro apaixonado por tecnologia.
 
@@ -53,7 +53,7 @@ Projetos voltados para tecnologia e programação.
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=nodejs, python"/>
+<img src="https://skillicons.dev/icons?i=nodejs,python"/>
 
 </p>
 
