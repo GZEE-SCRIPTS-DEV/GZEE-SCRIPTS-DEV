@@ -71,7 +71,7 @@ Projetos voltados para tecnologia e programação.
 <img src="https://img.shields.io/badge/Site-00BFFF?style=for-the-badge"/>
 </a>
 
-<a href="https://whatsapp.com/channel/0029VbCaBlb7T8bamg6B2i0e">
+<a href="https://whatsapp.com/channel/0029Vb81n9qIyPtKalXFzp43">
 <img src="https://img.shields.io/badge/Canal-25D366?style=for-the-badge&logo=whatsapp"/>
 </a>
 
