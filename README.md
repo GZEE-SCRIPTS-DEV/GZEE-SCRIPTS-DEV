@@ -16,11 +16,11 @@ Olá! Sou o **GzeeScriptsDev**, brasileiro apaixonado por tecnologia.
 
 🚀 Atualmente trabalho com:
 
-- 🤖 Bots para WhatsApp
-- 🌐 Desenvolvimento de APIs (SystemZero Baileys)
-- ⚡ Node.js
-- 💻 Automações
-- 🔥 Projetos Open Source
+- Bots para WhatsApp
+- Desenvolvimento de APIs (SystemZero Baileys)
+- Node.js
+- Automações
+- Projetos Open Source
 
 Sempre buscando criar projetos modernos, rápidos e bem organizados.
 
@@ -28,10 +28,10 @@ Sempre buscando criar projetos modernos, rápidos e bem organizados.
 
 # 🚀 Meus Projetos
 
-### 🤖 Zyron-MD
+### Zyron-MD
 Bot completo para WhatsApp.
 
-### 🌐 Zyron API
+### Zyron API
 API gratuita para desenvolvedores.
 
 ---
